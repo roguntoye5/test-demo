@@ -8,4 +8,10 @@ Hi! I'm E.
 - Coding
 - Sports
 
+### Hobbies
+1. Drawing :3
+2. Reading XP
+3. Playing Videogames :D
+
+
 **Favorite Language:** HTML
